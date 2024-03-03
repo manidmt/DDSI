@@ -1,2 +1,2 @@
 # DDSI
-University Proyect in which Java and SQL are used
+University Project in which Java and SQL are used
